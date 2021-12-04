@@ -1,4 +1,4 @@
 # 📖 Summary
-Last updated: **12/4/2021, 9:37:17 PM**
+Last updated: **12/4/2021, 9:44:31 PM**
 
-- `GET` [https://Bhadwa-sala.toxicblte.repl.co](https://Bhadwa-sala.toxicblte.repl.co) - **Down** (254ms)
+- `GET` [https://Bhadwa-sala.toxicblte.repl.co](https://Bhadwa-sala.toxicblte.repl.co) - **Down** (165ms)
